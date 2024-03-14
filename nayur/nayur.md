@@ -18,6 +18,34 @@ div{
 }
 ```
 
+### JavaScript
+
+### typescript
+
 ## .net
 
+### ado.net
+
+### .net core
+
 ## python
+
+## sql
+
+### mysql
+
+### sql server
+
+### oracle
+
+## tools
+
+### ide
+
+web\python
+vscode
+
+.net
+vs
+
+mysql
